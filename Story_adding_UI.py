@@ -4,7 +4,7 @@ from Dictionary_of_Stories import Personal_load_data
 from Story_Adding_Pure_Def import Add_Story
 
 def Add_Popup_Container(right_panel, parent_tab):
-    # ===== BUTTON =====
+    # Add Button
     Add_button = tk.Button(
         right_panel,
         text="Add",
